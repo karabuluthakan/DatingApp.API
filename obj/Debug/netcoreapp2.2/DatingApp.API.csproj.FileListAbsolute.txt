@@ -1,0 +1,14 @@
+/Users/hk/Desktop/workspace/dotnet/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.deps.json
+/Users/hk/Desktop/workspace/dotnet/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.json
+/Users/hk/Desktop/workspace/dotnet/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.dev.json
+/Users/hk/Desktop/workspace/dotnet/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.dll
+/Users/hk/Desktop/workspace/dotnet/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.pdb
+/Users/hk/Desktop/workspace/dotnet/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csprojAssemblyReference.cache
+/Users/hk/Desktop/workspace/dotnet/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/hk/Desktop/workspace/dotnet/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cache
+/Users/hk/Desktop/workspace/dotnet/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cs
+/Users/hk/Desktop/workspace/dotnet/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfoInputs.cache
+/Users/hk/Desktop/workspace/dotnet/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfo.cs
+/Users/hk/Desktop/workspace/dotnet/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorTargetAssemblyInfo.cache
+/Users/hk/Desktop/workspace/dotnet/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.dll
+/Users/hk/Desktop/workspace/dotnet/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.pdb
