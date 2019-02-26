@@ -92,5 +92,12 @@ namespace DatingApp.API.Controllers
 
             return BadRequest("Could not add the photo");
         }
+
+        [HttpDelete("id")]
+        public async Task<IActionResult>DeletePhoto(int userId,)
+        {
+            if(userId != int.Parse(User.FindFirst(ClaimTypes.NameIdentifier).Value))
+                return Unauthorized();
+        }
     }
 }
